@@ -1,0 +1,35 @@
+body
+{background-colour: rgb(222, 135, 189);}
+
+
+a:link
+{
+    color: rgb(255, 250, 252);
+    background-color: rgb(228, 219, 225);
+    text-decoration:peachpuff;
+    text-align: center;
+    font-family:verdana, geneva, tahoma, sans-serif;
+    padding: 15px;
+
+}
+
+a:visited:
+{
+    color: white; 
+    background-color: green;
+    text-decoration:underline;
+    font-family:Impact, haettenschweller, "Arial Narrow Bold", sans-serif;
+    padding:15px;
+
+}
+
+a:active 
+{
+color: white
+background-color:deeppink
+}
+
+
+
+
+
